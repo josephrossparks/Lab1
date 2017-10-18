@@ -1,0 +1,61 @@
+/*text styling*/
+
+.hometext p{
+    font-family: Helvetica, sans-serif;
+    color: grey;
+    border-style: solid;
+    border-width: 0px 0px 0px 2px;
+    border-color: grey;
+    padding-left: 20px;}
+
+h1 {
+    font-family: Helvetica, sans-serif;
+    font-size: 1.5em}
+
+h2 {
+    font-family: Helvetica, sans-serif;
+    font-size: 0.9em;}
+
+/*button style*/
+
+button {
+      background-color: black;
+      color: white;
+      padding: 12px 24px;
+      border-radius: 25px;
+      border: none;}
+
+/*navigation*/
+
+.logo {padding: 10px 0px;
+        display: inline-block;}
+
+.nav {display: inline-block;
+      float: right;}
+
+.hireus {display: inline;}
+
+.nav ul {list-style: none;}
+
+.nav a {
+      text-decoration: none;
+      font-family: Helvetica, sans-serif;
+      font-size: 0.9em;
+      color: black;}
+
+li {display: inline;
+    margin: 10px;}
+
+a:hover {color: grey;}
+
+.header {position: relative;}
+
+/*body*/
+.homebox {
+          float: left;
+          width: 50%;
+          margin-top: 120px;}
+
+.circles
+
+.scroll
